@@ -62,6 +62,6 @@
 
 * Japan WG:
   * Wiki: https://wiki.linuxfoundation.org/openchain/openchain-japanese-working-group
-  * ML: openchain-japan-wg@lists.linuxfoundation.org
+  * ML: https://lists.linuxfoundation.org/mailman/listinfo/openchain-japan-wg
   * GitHub: https://github.com/OpenChain-Project/Onboarding-JWG
 
